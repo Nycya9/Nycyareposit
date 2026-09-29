@@ -13,7 +13,7 @@ int main() {
     adc_init();
     adc_gpio_init(vRx_PIN);
     adc_gpio_init(vRy_PIN);
-    gpio_init(SW);
+    gpio_init(SW);Java script, alt + ult, stadion mzkr, concret, define pnc. poul make-up,  juva script
     gpio_set_dir(SW, GPIO_IN);
     gpio_pull_up(SW);
     
